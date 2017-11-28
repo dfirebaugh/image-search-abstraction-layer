@@ -1,0 +1,28 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "request": "^2.83.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfirebaugh/image-search-abstraction-layer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfirebaugh/image-search-abstraction-layer/issues"
+  },
+  "homepage": "https://github.com/dfirebaugh/image-search-abstraction-layer#readme"
+}
